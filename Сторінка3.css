@@ -1,0 +1,206 @@
+.conteiner {
+    width: 100%;
+    height: 690px;
+    background-color: #E5EAFF;
+}
+
+.top1 {
+    width: 100%;
+    height: 65px;
+    background-color: #1E2840;
+}
+
+.top2 {
+    width: 100%;
+    height: 55px;
+    background-color: #313A50;
+}
+
+.rightbar {
+    width: 70px;
+    height: 570px;
+    background-color: #1E2840;
+    float: right;
+}
+
+.miku {
+    color: #fff;
+    font-size: 20px;
+    float: left;
+    font-family: Inter, sans-serif;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.home{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.cart{
+    margin-top: 180px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+
+.book2{
+    width: 70px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-top: 150px;
+}
+
+.homeText{
+    width: 10px;
+    height: 10px;
+    font-family: Inter, sans-serif;
+    color: black;
+}
+
+.cartText{
+    width: 10px;
+    height: 10px;
+    font-family: Inter, sans-serif;
+    color: black;
+}
+
+.order{
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    color: white;
+    float: left;
+    margin-left: 50px;
+}
+
+.number{
+    float: left;
+    color: white;
+    margin-left: 700px;
+    font-family: Inter, sans-serif;
+}
+
+.center{
+    background-color: white;
+    width: 1320px;
+    height: 480px;
+    float: left;
+    margin: 50px;
+}
+
+.data{
+    color: black;
+    font-family: Lato, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+
+.name{
+    width: 700px;
+    height: 50px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.nameText{
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    font-family: Lato, sans-serif;
+}
+
+.writeNumber{
+    font-size: 20px;
+    font-family: Lato, sans-serif;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+
+#phoneNumber{
+    width: 600px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 30px;
+    float: left;
+    border-radius: 10px;
+}
+
+.writeName{
+    font-size: 20px;
+    font-family: Lato, sans-serif;
+    color: black;
+    margin-left: 50px;
+    margin-bottom: -5px;
+}
+
+#nameText{
+    width: 600px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 30px;
+    float: left;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.textNum{
+    width:600px;
+    height:200px;
+}
+
+.radioText{
+    font-family: Lato, sans-serif;
+}
+
+.radio{
+    margin-left: 50px;
+}
+
+.ownerText{
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+}
+.ownerText1{
+    font-family: Lato, sans-serif;
+    font-size: 25px;
+    height: 20px;
+}
+
+.ownerDiv{
+    margin-left: 50px;
+    margin-top: -10px;
+}
+
+.continue{
+    height: 50px;
+    width: 300px;
+    background-color: #1E2840;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.continueText{
+    color: #ffffff;
+    font-family: Lato, sans-serif;
+    font-size: 20px;
+}
+
+.tap{
+    color: black;
+}

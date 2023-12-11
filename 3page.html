@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Контактні дані</title>
+    <link href="Сторінка3.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Lato:wght@300;400&display=swap" rel="stylesheet">
+    <title>MIKU</title>
+</head>
+<body>
+
+<div class="conteiner">
+
+    <div class="top1">
+        <p class="miku"> M I <br>K U</p>
+        <p class="order"> Оформлення замовлення </p>
+        <p class="number"> <b>0985637482 </b> <br> Телефонуйте цілодобово – проконсультуємо! </p>
+    </div>
+
+    <div class="top2"> </div>
+
+    <div class="center">
+        <p class="data"> <b> Контактні дані  </b></p>
+        <div class="textNum">
+            <p class="writeName"> Введіть ім'я </p>
+            <input type = "text"  id="nameText" name = "nameText">
+            <p class="writeNumber"> Введіть номер телефону </p>
+            <input type = "text" id="phoneNumber" name = "phoneNumber">
+        </div>
+        <form>
+            <input class="radio" type="checkbox" id="percon" name="percon" value="percon">
+            <label for="percon" class="radioText"> Оформити замовленння на юредичну особу </label><br>
+        </form>
+
+        <div class="ownerDiv">
+            <p class="ownerText1"> Одержувач: </p>
+            <form>
+                <input class="checkbox" type="radio" id="owner1" name="owner" value="owner">
+                <label for="owner1" class="ownerText"> Я </label>
+                <input class="checkbox" type="radio" id="owner2" name="owner" value="owner">
+                <label for="owner2" class="ownerText"> Інша особа </label>
+            </form>
+        </div>
+        <button class="continue"> <a class="continueText" href="http://localhost:63342/Lab%203%20web%20design/Comment.html?_ijt=9gehqhcvrahph0cvg6h11d212r"> Продовжити </a> </button>
+    </div>
+
+    <div class="rightbar">
+        <button class="home" onclick="window.location.href='Main.html'"> Home </button>
+        <button class="cart" onclick="window.location.href='Comment.html'"> Order </button>
+        <button class="book2" onclick="window.location.href='http://localhost:63342/Lab%209%20web%20design/Order.html'"> Comment </button>
+    </div>
+
+</div>
+
+</body>
+</html>
